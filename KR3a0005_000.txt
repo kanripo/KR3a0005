@@ -6,7 +6,12 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB03n0103-000新書-序.
+
+# SB1_0321-004.png (to SB1_0321-015)
+# page missing?
+
 <pb:KR3a0005_SBCK_000-1a>¶
+# SB1_0322-212.png
 長沙故楚地前代人物不乏有而𩔰然各載史¶
 氏者獨屈原以忠憤賈&KR0105;以遷徙見之文詞磊¶
 落相望今離騷經潭已板行而&KR0105;書獨無傳焉¶
